@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "I am learning Express here. It's just a sandbox.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gloryson/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gloryson/express/issues"
+  },
+  "homepage": "https://github.com/Gloryson/express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
